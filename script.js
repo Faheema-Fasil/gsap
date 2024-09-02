@@ -3,7 +3,7 @@ var tl = gsap.timeline({scrollTrigger:{
     start: "0% 90%",
     end:"50% 50%",
     scrub:true,
-     markers:true,
+     
 }})
 tl.to("#fanta",{
     top:"125%",
