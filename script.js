@@ -6,7 +6,7 @@ var tl = gsap.timeline({scrollTrigger:{
      markers:true,
 }})
 tl.to("#fanta",{
-    top:"128%",
+    top:"125%",
     left:"4%"
 },'orange')
 tl.to("#orange-cut",{
