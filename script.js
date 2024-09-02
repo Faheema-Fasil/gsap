@@ -44,7 +44,7 @@ tl2.from(".lemon1",{
 }, 'ca')
 tl2.from("#cocacola",{
     rotate: "-90deg",
-    top: "110%",
+    top: "113%",
     right:"-20%"
 }, 'ca')
 
@@ -66,7 +66,7 @@ tl2.to("#orange-cut",{
 }, 'ca')
 tl2.to("#fanta",{
     width:"35%",
-    top: "210%",
+    top: "213%",
     left: "33%",
 }, 'ca')
 
