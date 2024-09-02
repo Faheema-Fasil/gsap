@@ -56,7 +56,7 @@ nav i{
     height: 100vh;
     background: linear-gradient(150deg,rgba(255, 140, 69, 0.57)25%,rgba(255, 72, 0, 0.762)75%);
 }
-.fanta{
+#fanta{
     position: absolute;
     width: 40%;
     z-index: 2;
